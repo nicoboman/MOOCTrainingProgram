@@ -21,7 +21,7 @@
          url('polices/dayrom.woff') format('woff'),
          url('polices/dayrom.ttf') format('truetype'),
          url('polices/dayrom.svg#Dayrom') format('svg');
-    font-weight: bald;
+    font-weight: normal;
     font-style: normal;
 }
 
